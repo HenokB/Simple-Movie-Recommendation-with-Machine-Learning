@@ -31,4 +31,6 @@ The Movie dataset to be used in this project is simply made for this purpose.
 1.  `Age`
 2. `Genre`
 3. `Gender`
+# Author
 
+Henok B Ademtew
