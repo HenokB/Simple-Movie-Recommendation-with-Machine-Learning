@@ -1,13 +1,13 @@
 # Simple-Movie-Recommendation-with-Machine-Learning
-##"Using Machine Learning for Creating a Movie Recommendation System"
+# Using Machine Learning for Creating a Movie Recommendation System"
 
 ### Goal
-My goal in this project is to use machine learning to be able to build a movie recommendation system. I used a decision tree classifier to write the program.
+The goal is to use machine learning to be able to build a movie recommendation system. I used a decision tree classifier to write the program.
 
 
 ### Install
 
-This project requires **Python 3.x**and the following Python libraries installed:
+This project requires **Python 3.x **and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
